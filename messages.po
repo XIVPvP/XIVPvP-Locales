@@ -384,6 +384,10 @@ msgstr ""
 msgid "Win rate"
 msgstr ""
 
+#, php-format
+msgid "Japanese translation by %s"
+msgstr ""
+
 msgid "Home"
 msgstr ""
 
