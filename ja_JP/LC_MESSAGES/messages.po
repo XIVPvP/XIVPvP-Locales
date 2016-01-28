@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: xivpvp\n"
 "POT-Creation-Date: 2016-01-28 08:24+0000\n"
-"PO-Revision-Date: 2016-01-29 05:58+0900\n"
+"PO-Revision-Date: 2016-01-29 06:55+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -140,6 +140,34 @@ msgstr "読み込み中…"
 msgid "No characters for this time period and filters"
 msgstr "指定された期間と条件では見つかりませんでした"
 
+#, php-format
+msgid "%d man Seal Rock (%s) - "
+msgstr "シールロック%d人戦(%s) - "
+
+msgid "winner"
+msgstr "勝者"
+
+msgid "Maelstrom"
+msgstr "黒渦団"
+
+msgid "2nd"
+msgstr "2位"
+
+msgid "Twin Adder"
+msgstr "双蛇党"
+
+msgid "3rd"
+msgstr "3位"
+
+msgid "Immortal Flames"
+msgstr "不滅隊"
+
+msgid "Copy summary to clipboard"
+msgstr "結果をクリップボードにコピー"
+
+msgid "Tweet this match"
+msgstr "試合結果をツイート"
+
 #. /Translator: the first %d represents 24 or 72 (match size)
 #, php-format
 msgid ""
@@ -147,9 +175,6 @@ msgid ""
 msgstr ""
 "シールロック %d人戦 - %s - 試合時間 %s, 終了時刻 <span class='toLocal'>%s</"
 "span>"
-
-msgid "Maelstrom"
-msgstr "黒渦団"
 
 msgid "Points from Tomeliths"
 msgstr "アラガントームリスから得た情報値"
@@ -159,12 +184,6 @@ msgstr "敵兵撃破で得た情報値"
 
 msgid "Points lost from deaths"
 msgstr "戦闘不能で失った情報値"
-
-msgid "Twin Adder"
-msgstr "双蛇党"
-
-msgid "Immortal Flames"
-msgstr "不滅隊"
 
 msgid "Kills"
 msgstr "撃破数"
@@ -196,9 +215,6 @@ msgid ""
 msgstr ""
 "SHIFTキーを押しながら列の見出しをクリックすると同時に複数の列(2つ、3つ、4つ)"
 "を並べ替えることができます。"
-
-msgid "Copy summary to clipboard"
-msgstr "概要をクリップボードにコピー"
 
 msgid "Copied!"
 msgstr "コピーされました！"
@@ -236,6 +252,9 @@ msgstr "不滅隊情報値"
 msgid "No recent Seal Rock matches"
 msgstr "最近のシールロックの情報はありません"
 
+msgid "View"
+msgstr "詳細"
+
 msgid "Summary"
 msgstr "概要"
 
@@ -256,7 +275,7 @@ msgstr "過去のワールド: %s"
 
 #, php-format
 msgid "More than %s Seal Rock matches in total, with a win rate of %s%%."
-msgstr "シールロック試合数%s回以上, 勝率%s%%"
+msgstr "シールロックは%s回以上参加 (勝率 %s%%)"
 
 msgid "Grand Company Ranks"
 msgstr "グランドカンパニーランク"
@@ -293,32 +312,35 @@ msgstr "同じパーティで'+player.times+'回参加"
 
 #, php-format
 msgid "out of %s\\'s '+data.wdCount+' matches"
-msgstr "%sのウルヴズジェイル総試合数: '+data.wdCount+'"
+msgstr "%sは全部で'+data.wdCount+'回参加"
 
 msgid "Played only '+player.main"
-msgstr "参加ジョブは'+player.main+'のみ'"
+msgstr "ジョブは'+player.main+'のみ'"
 
 msgid "Mostly played '+player.main+'"
-msgstr "参加ジョブは主に'+player.main+'"
+msgstr "主なジョブは'+player.main+'"
 
 msgid "Frequently seen in Wolves\\' Den with"
-msgstr "ウルヴズジェイルを一緒にプレイ:"
+msgstr "ウルヴズジェイルをよく一緒にプレイする人:"
 
 msgid "and"
 msgstr ","
 
-msgid "View"
-msgstr "詳細"
+msgid "won"
+msgstr "勝利"
+
+msgid "lost"
+msgstr "敗北"
 
 msgid "% win rate for selected period"
 msgstr "%の勝率 (指定期間内)"
 
 #, php-format
 msgid "out of %s\\'s '+data.flCount+' matches"
-msgstr "%sのシールロック総試合数: '+data.flCount+'"
+msgstr "%sは全部で'+data.flCount+'回参加"
 
 msgid "Frequently seen in Seal Rock with"
-msgstr "シールロックを一緒にプレイ: "
+msgstr "シールロックをよく一緒にプレイする人: "
 
 msgid "Grand Company Rank"
 msgstr "グランドカンパニーランク"
