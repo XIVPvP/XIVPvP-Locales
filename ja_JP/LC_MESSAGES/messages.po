@@ -1,1 +1,712 @@
+# XIVPvP Translation file
+# Copyright (C) 2016 XIVPvP
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: xivpvp\n"
+"POT-Creation-Date: 2016-01-28 08:24+0000\n"
+"PO-Revision-Date: 2016-01-29 04:38+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
 
+msgid "XIVPvP - Frontline and Wolves' Den statistics for Final Fantasy XIV"
+msgstr "XIVPvP - フロントライン・ウルヴズジェイル戦績 (Final Fantasy XIV)"
+
+msgid "Search for a character"
+msgstr "キャラクターを検索"
+
+msgid "Character name"
+msgstr "キャラクター名"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search for a linkshell"
+msgstr "リンクシェルを検索"
+
+msgid "Linkshell name"
+msgstr "リンクシェル"
+
+msgid "All-time FrontLine Hall of Fame"
+msgstr "フロントライン最高記録"
+
+#. / Translator: this means Killed
+msgid "Slaughtered"
+msgstr "撃破数"
+
+msgid "Damage done"
+msgstr "与ダメージ量"
+
+msgid "Healing done"
+msgstr "与ヒール量"
+
+msgid "Matches played"
+msgstr "試合数"
+
+msgid "Seal Rock Standings"
+msgstr "シールロック総合順位"
+
+msgid "to"
+msgstr "～"
+
+msgid "at least 5 matches"
+msgstr "5試合以上"
+
+msgid "Filter by Data Center"
+msgstr "DCで絞る"
+
+msgid "Data Center"
+msgstr "DC"
+
+msgid "Filter by Job/Class"
+msgstr "ジョブ・クラスで絞る"
+
+msgid "Job"
+msgstr "ジョブ"
+
+msgid "All"
+msgstr "全部"
+
+msgid "PLD"
+msgstr "PLD"
+
+msgid "WAR"
+msgstr "WAR"
+
+msgid "DRK"
+msgstr "DRK"
+
+msgid "BRD"
+msgstr "BRD"
+
+msgid "MCH"
+msgstr "MCH"
+
+msgid "NIN"
+msgstr "NIN"
+
+msgid "DRG"
+msgstr "DRG"
+
+msgid "MNK"
+msgstr "MNK"
+
+msgid "SMN"
+msgstr "SMN"
+
+msgid "BLM"
+msgstr "BLM"
+
+msgid "Top 20 DPS/Tanks based on Kill/Death Ratio"
+msgstr "K/DランキングTOP20 (DPS・タンク)"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "GC"
+msgstr "GC"
+
+msgid "Server"
+msgstr "ワールド"
+
+msgid "Main Job"
+msgstr "メインジョブ"
+
+msgid "KDR"
+msgstr "K/D"
+
+msgid "Average Kills"
+msgstr "平均撃破数"
+
+msgid "Average Deaths"
+msgstr "平均戦闘不能数"
+
+msgid "Average Damage"
+msgstr "平均与ダメージ量"
+
+msgid "Matches"
+msgstr "試合数"
+
+msgid "loading..."
+msgstr "読み込み中…"
+
+msgid "No characters for this time period and filters"
+msgstr "指定された期間と条件ではキャラクターは見つかりませんでした"
+
+#. /Translator: the first %d represents 24 or 72 (match size)
+#, php-format
+msgid ""
+"%d man Seal Rock on %s - duration %s, ended <span class='toLocal'>%s</span>"
+msgstr ""
+"シールロック %d人戦 - %s - 試合時間 %s, 終了時刻 <span class='toLocal'>%s</"
+"span>"
+
+msgid "Maelstrom"
+msgstr "黒渦団"
+
+msgid "Points from Tomeliths"
+msgstr "アラガントームリスから得た情報値"
+
+msgid "Points from kills"
+msgstr "敵兵撃破で得た情報値"
+
+msgid "Points lost from deaths"
+msgstr "戦闘不能で失った情報値"
+
+msgid "Twin Adder"
+msgstr "双蛇党"
+
+msgid "Immortal Flames"
+msgstr "不滅隊"
+
+msgid "Kills"
+msgstr "撃破数"
+
+msgid "KO'd"
+msgstr "戦闘不能数"
+
+msgid "Damage Done"
+msgstr "与ダメージ量"
+
+msgid "Damage Taken"
+msgstr "被ダメージ量"
+
+msgid "Healing Done"
+msgstr "与ヒール量"
+
+msgid "Healing Taken"
+msgstr "被ヒール量"
+
+msgid "Occupied"
+msgstr "占拠回数"
+
+msgid "TIP!"
+msgstr "ヒント:"
+
+msgid ""
+"Sort multiple columns simultaneously by holding down the shift key and "
+"clicking a second, third or even fourth column header!"
+msgstr ""
+"SHIFTキーを押しながら列の見出しをクリックすると同時に複数の列(2つ、3つ、4つ)"
+"を並べ替えることができます。"
+
+msgid "Copy summary to clipboard"
+msgstr "概要をクリップボードにコピー"
+
+msgid "Copied!"
+msgstr "コピーされました！"
+
+msgid "Press CTRL+C to Copy"
+msgstr "CTRL+Cを押してコピー"
+
+msgid "Latest Seal Rock Matches"
+msgstr "最新のシールロック結果"
+
+msgid "Refresh manually (automatic refresh every 2min)"
+msgstr "手動更新（2分ごとに自動更新されます）"
+
+msgid "Filter"
+msgstr "結果を絞る"
+
+msgid "Ended"
+msgstr "終了時刻"
+
+msgid "Duration"
+msgstr "経過時間"
+
+msgid "Size"
+msgstr "人数"
+
+msgid "Maelstrom Points"
+msgstr "黒渦団情報値"
+
+msgid "Twin Adder Points"
+msgstr "双蛇党情報値"
+
+msgid "Immortal Flames Points"
+msgstr "不滅隊情報値"
+
+msgid "No recent Seal Rock matches"
+msgstr "最近のシールロックの情報はありません"
+
+msgid "Summary"
+msgstr "概要"
+
+#, php-format
+msgid "Last seen on %s (%s), playing as %s."
+msgstr "直近の試合: %s (%s), 所属GC: %s"
+
+#, php-format
+msgid "Currently on %s"
+msgstr "現在のワールド: %s"
+
+msgid "Free Company"
+msgstr "フリーカンパニー: "
+
+#, php-format
+msgid "Also seen on %s."
+msgstr "過去のワールド: %s"
+
+#, php-format
+msgid "More than %s Seal Rock matches in total, with a win rate of %s%%."
+msgstr "シールロック試合数%s回以上, 勝率%s%%"
+
+msgid "Grand Company Ranks"
+msgstr "グランドカンパニーランク"
+
+msgid "Order of the Twin Adder"
+msgstr "双蛇党"
+
+msgid "Wolves' Den Matches"
+msgstr "ウルヴズジェイル"
+
+msgid "time period"
+msgstr "期間"
+
+msgid "Past 7 days"
+msgstr "過去7日間"
+
+msgid "Past 30 days"
+msgstr "過去30日間"
+
+msgid "Won/lost"
+msgstr "勝敗"
+
+msgid "Show more"
+msgstr "さらに表示"
+
+msgid "Seal Rock Matches"
+msgstr "シールロック"
+
+msgid "Place"
+msgstr "順位"
+
+msgid "Seen in the same party '+player.times+' times"
+msgstr "同じパーティで'+player.times+'回参加"
+
+#, php-format
+msgid "out of %s\\'s '+data.wdCount+' matches"
+msgstr "%sのウルヴズジェイル総試合数: '+data.wdCount+'"
+
+msgid "Played only '+player.main"
+msgstr "参加ジョブは'+player.main+'のみ"
+
+msgid "Mostly played '+player.main+'"
+msgstr "参加ジョブは主に'+player.main+'"
+
+msgid "Frequently seen in Wolves\\' Den with"
+msgstr "ウルヴズジェイルを一緒にプレイ:"
+
+msgid "and"
+msgstr ","
+
+msgid "View"
+msgstr "詳細"
+
+msgid "% win rate for selected period"
+msgstr "%の勝率 (指定期間内)"
+
+#, php-format
+msgid "out of %s\\'s '+data.flCount+' matches"
+msgstr "%sのシールロック総試合数: '+data.flCount+'"
+
+msgid "Frequently seen in Seal Rock with"
+msgstr "シールロックを一緒にプレイ: "
+
+msgid "Grand Company Rank"
+msgstr "グランドカンパニーランク"
+
+msgid "Rank"
+msgstr "ランク"
+
+msgid "Weekly Matches"
+msgstr "週間試合数"
+
+msgid "Weekly matches"
+msgstr "週間試合数"
+
+msgid "Won"
+msgstr "勝利"
+
+msgid "Lost"
+msgstr "敗北"
+
+msgid "Monthly Matches"
+msgstr "月間試合数"
+
+msgid "Monthly matches"
+msgstr "月間試合数"
+
+msgid "Last seen"
+msgstr "直近"
+
+msgid "no results"
+msgstr "結果なし"
+
+msgid "Server Frontline statistics"
+msgstr "フロントライン・ワールド統計"
+
+msgid "Monthly Characters"
+msgstr "月間キャラクター数"
+
+msgid "Monthly Win rate"
+msgstr "月間勝率"
+
+msgid "Weekly Characters"
+msgstr "週間キャラクター数"
+
+msgid "Weekly Win rate"
+msgstr "週間勝率"
+
+msgid "Previous week"
+msgstr "前週分"
+
+msgid "Characters"
+msgstr "キャラクター数"
+
+msgid "Matches Sum"
+msgstr "総試合数"
+
+msgid "Avg WR"
+msgstr "平均勝率"
+
+msgid "All time"
+msgstr "全期間"
+
+msgid "Monthly Active Characters"
+msgstr "月間アクティブキャラクター数"
+
+msgid "Weekly Active Characters"
+msgstr "週間アクティブキャラクター数"
+
+msgid "Win rate"
+msgstr "勝率"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Seal Rock"
+msgstr "シールロック"
+
+msgid "Wolves' Den"
+msgstr "ウルヴズジェイル"
+
+msgid "Linkshells"
+msgstr "リンクシェル"
+
+msgid "Servers"
+msgstr "ワールド"
+
+msgid "Chat"
+msgstr "チャット"
+
+msgid "Client"
+msgstr "クライアント"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Linkshell"
+msgstr "リンクシェル"
+
+msgid "statistics"
+msgstr "統計"
+
+msgid "Active players"
+msgstr "アクティブプレイヤー数"
+
+msgid "Weekly average win rate"
+msgstr "週間平均勝率"
+
+msgid "Monthly average win rate"
+msgstr "月間平均勝率"
+
+msgid "Weekly average rank"
+msgstr "週間平均ランク"
+
+msgid "Monthly average rank"
+msgstr "月間平均ランク"
+
+msgid "GC Distribution"
+msgstr "所属GC分布"
+
+msgid "FC"
+msgstr "FC"
+
+msgid "Members"
+msgstr "所属人数"
+
+#, php-format
+msgid "Wolves' Den match on (%s) on %s"
+msgstr "ウルヴズジェイル (%s) %s"
+
+#, php-format
+msgid ""
+"Wolves' Den match on %s - duration %s, ended <span class='toLocal'>%s</span>"
+msgstr ""
+"ウルヴズジェイル %s - 経過時間 %s, 終了時刻 <span class='toLocal'>%s</span>"
+
+msgid "Team"
+msgstr "チーム"
+
+msgid "Claws"
+msgstr "クロウ"
+
+msgid "Fangs"
+msgstr "ファング"
+
+msgid "Latest Wolves' Den Matches"
+msgstr "最新のウルヴズジェイル結果"
+
+msgid "No recent Wolves' Den matches"
+msgstr "最近のウルヴズジェイルの情報はありません"
+
+msgid "Frequently Asked Questions"
+msgstr "よくある質問"
+
+msgid "What is this site?"
+msgstr "このウェブサイトは何ですか？"
+
+msgid ""
+"XIVPvP tracks Final Fantasy XIV Frontline standings, linkshells that are PVP "
+"oriented, and other PVP statistics."
+msgstr ""
+"XIVPvPはファイナルファンタジーXIVのフロントライン戦績、PvPに特化したリンク"
+"シェル、その他のPvPに関する情報を集計しています。"
+
+msgid "How are you getting this data?"
+msgstr "どのようにデータを集めているのですか？"
+
+msgid ""
+"Some data is extracted from the official <a href=\"http://na.finalfantasyxiv."
+"com/lodestone/ranking/frontline/weekly/\" target=_blank>Frontline Standings "
+"page</a>. We fetch the weekly and monthly data for each server."
+msgstr ""
+"一部のデータは公式の<a href=\"http://jp.finalfantasyxiv.com/lodestone/"
+"ranking/frontline/weekly/\" target=_blank>フロントラインランキング</a>から集"
+"めています。各ワールドの週間・月間データを取得しています。"
+
+msgid ""
+"Aditionally, Seal Rock and Wolves' Den match data is collected from players "
+"using the <a href=\"/client\">XIVPvP client</a>"
+msgstr ""
+"また、シールロックとウルヴズジェイルの試合結果については<a href=\"/client"
+"\">XIVPvPクライアント</a>を使用しているプレイヤーから集められています。"
+
+msgid "HALP! You don't have data for my character!"
+msgstr "私のキャラクターのデータが見つからないのですが…"
+
+msgid ""
+"The official Standings (see above) only contains data for players that did "
+"at least 10 matches in a week, or 30 matches in a month. Weekly standings "
+"are updated once once a week, on Sunday."
+msgstr ""
+"公式結果(上記)は1週間に10回以上あるいは１か月に30回以上の試合を行った場合のみ"
+"集計されます。週間の集計結果は毎週日曜日に更新されます。"
+
+msgid ""
+"For example, if you play less than 7 matches every week we won't have any "
+"data on your character. Stop being a casual."
+msgstr ""
+"例えば、もしあなたが1週間の試合数が7回以下である場合、あなたのキャラクターの"
+"データはありません。もっとプレイしましょう。"
+
+msgid "The statistics on XIVPvP differ from the in game ones"
+msgstr "XIVPvPで集計された結果がゲーム内の実際の結果と違うのですが"
+
+msgid ""
+"For weekly performance, the official Standings (see above) tracks matches "
+"from Sunday to Sunday. The in game rankings tracks matches from weekly reset "
+"day (Tuesday)."
+msgstr ""
+"週間データについては、公式結果(上記)は日曜日から1週間の間に集計されたもので"
+"す。ゲーム内の結果はリセット日(火曜日)から集計が行われます。"
+
+msgid ""
+"For every other dissimilarity, you probably had less than 10 matches in a "
+"given week, or less than 30 matches in a month."
+msgstr ""
+"その他の違いについては、試合数が1週間に10回未満、あるいは１か月に30回未満の期"
+"間があったからであると考えられます。"
+
+msgid "XIVPvP Client"
+msgstr "XIVPvPクライアント"
+
+#, php-format
+msgid "Version v%s"
+msgstr "バージョン v%s"
+
+msgid "64bit"
+msgstr "64ビット版"
+
+msgid "32bit"
+msgstr "32ビット版"
+
+msgid "soon"
+msgstr "開発中"
+
+msgid "Note"
+msgstr "注意"
+
+msgid "not compatible with Avast and some VPN software (ie WTFast)"
+msgstr "Avastや一部のVPNソフトウェア(WTFast等)と同時に起動すると動作しません。"
+
+msgid "Source code"
+msgstr "ソースコード"
+
+msgid "GitHub"
+msgstr "GitHub"
+
+msgid "For bugs and feature requests, please open a GitHub issue."
+msgstr ""
+"バグ報告・要望についてはGitHubにてissueを開いてください。(英語で記載してくだ"
+"さい。)"
+
+msgid "Pull requests are welcome, the code still needs a lot of work."
+msgstr "Pull requestは歓迎します。コードにはまだまだ改善の余地があります。"
+
+msgid "How to install and use?"
+msgstr "インストール方法と使い方"
+
+msgid ""
+"Download the latest <a href='https://github.com/XIVPvP/XIVPvP/"
+"releases'>release</a> and extract the contents to a folder."
+msgstr ""
+"<a href='https://github.com/XIVPvP/XIVPvP/releases'>リリース最新版</a>をダウ"
+"ンロードし、フォルダに展開してください。"
+
+msgid "Make a shortcut on your desktop, or run <i>XIVPvP.exe</i> directly."
+msgstr ""
+"デスクトップに<i>XIVPvP.exe</i>を実行するショートカットを作成してください。"
+
+msgid ""
+"Play a match of Seal Rock or Wolves Den. After the match has ended, right "
+"click on the tray icon and select <i>View last match</i>"
+msgstr ""
+"シールロックあるいはウルヴズジェイルを1試合プレイしてください。試合終了後、通"
+"知領域のアイコンを右クリックし、<i>直近の結果</i>をクリックしてください。"
+
+msgid "What is the client for?"
+msgstr "クライアントの役割は何ですか？"
+
+msgid ""
+"The client gathers the data at the end of a Frontline or Wolves' Den match "
+"from the FFXIV game and submits it to this website."
+msgstr ""
+"クライアントはシールロックとウルヴズジェイルの試合終了時にFF14のゲームデータ"
+"を取得し、当ウェブサイトに送信します。"
+
+msgid "You can then view your match details <a href='/frontline'>here</a>"
+msgstr ""
+"フロントラインの最新結果は<a href='/frontline'>このページ</a>で見ることができ"
+"ます。"
+
+msgid "How is the client gathering the data?"
+msgstr "クライアントはどのようにしてデータを取得しているのですか？"
+
+msgid "Data is extracted from the network packets that the game receives."
+msgstr "データはFF14が受信するネットワーク通信を読み取り抽出されます。"
+
+msgid ""
+"The client does not touch the game client or its memory in any way. You can "
+"read the <a href='https://github.com/XIVPvP/XIVPvP/'>source code</a> to see "
+"how it does all this."
+msgstr ""
+"XIVPvPクライアントはFF14クライアントおよびそのメモリ領域には一切触れることは"
+"ありません。実際にどのように行われているかは<a href='https://github.com/"
+"XIVPvP/XIVPvP/'>ソースコード</a>をご確認ください。"
+
+msgid "Can I get banned for using this?"
+msgstr "これを使用することによりBANされる可能性はありますか？"
+
+msgid "Not really."
+msgstr "ありません。"
+
+msgid ""
+"The client is not gathering/submitting data that you don't already know. It "
+"just sniffs the network packets and parses the ones we're interested in, "
+"kinda like a proxy."
+msgstr ""
+"クライアントが取得・送信するデータはそもそもプレイヤーが知ることができる情報"
+"のみです。ネットワーク通信をモニターし、興味のあるデータのみ解析しており、プ"
+"ロキシと似た動作をします。"
+
+msgid ""
+"Seriously, you could do the same thing by manually extracting the data on "
+"the scoreboard at the end of a match and sending it to this website."
+msgstr ""
+"各試合ごとに手動で結果を抽出し当ウェブサイトに送信した場合とクライアントの挙"
+"動はまったく同じです。"
+
+msgid "Displaying only characters active in the past week or month."
+msgstr "先週/先月にアクティブだったキャラクターのみ集計"
+
+msgid "Active in the past week"
+msgstr "先週のアクティブ数"
+
+msgid "Active in the past month"
+msgstr "先月のアクティブ数"
+
+msgid "Seal Rock Match"
+msgstr "シールロック試合数"
+
+msgid "Wolves' Den Match"
+msgstr "ウルヴズジェイル試合数"
+
+msgid "Linkshell search"
+msgstr "リンクシェル検索"
+
+msgid "enter at least 3 characters"
+msgstr "3文字以上入力してください"
+
+msgid "Server Statistics"
+msgstr "ワールド統計"
+
+msgid "Linkshell Statistics"
+msgstr "リンクシェル統計"
+
+msgid "Character search"
+msgstr "キャラクター検索"
+
+msgid "GLA"
+msgstr "GLA"
+
+msgid "PGL"
+msgstr "PGL"
+
+msgid "MRD"
+msgstr "MRD"
+
+msgid "LNC"
+msgstr "LNC"
+
+msgid "ARC"
+msgstr "ARC"
+
+msgid "CNJ"
+msgstr "CNJ"
+
+msgid "THM"
+msgstr "THM"
+
+msgid "WHM"
+msgstr "WHM"
+
+msgid "ACN"
+msgstr "ACN"
+
+msgid "SCH"
+msgstr "SCH"
+
+msgid "ROG"
+msgstr "ROG"
+
+msgid "AST"
+msgstr "AST"
