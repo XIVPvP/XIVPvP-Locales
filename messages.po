@@ -321,6 +321,12 @@ msgstr ""
 msgid "and"
 msgstr ""
 
+msgid "won"
+msgstr ""
+
+msgid "lost"
+msgstr ""
+
 msgid "% win rate for selected period"
 msgstr ""
 
