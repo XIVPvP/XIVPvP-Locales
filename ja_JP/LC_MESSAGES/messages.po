@@ -6,15 +6,15 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: xivpvp\n"
 "POT-Creation-Date: 2016-01-28 08:24+0000\n"
-"PO-Revision-Date: 2016-01-29 05:15+0900\n"
+"PO-Revision-Date: 2016-01-29 05:58+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "X-Generator: Poedit 1.8.6\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Language: ja_JP\n"
 
 msgid "XIVPvP - Frontline and Wolves' Den statistics for Final Fantasy XIV"
 msgstr "XIVPvP - フロントライン・ウルヴズジェイル戦績 (Final Fantasy XIV)"
@@ -138,7 +138,7 @@ msgid "loading..."
 msgstr "読み込み中…"
 
 msgid "No characters for this time period and filters"
-msgstr "指定された期間と条件ではキャラクターは見つかりませんでした"
+msgstr "指定された期間と条件では見つかりませんでした"
 
 #. /Translator: the first %d represents 24 or 72 (match size)
 #, php-format
@@ -351,7 +351,7 @@ msgid "no results"
 msgstr "結果なし"
 
 msgid "Server Frontline statistics"
-msgstr "フロントライン・ワールド統計"
+msgstr "フロントライン・ワールド戦績"
 
 msgid "Monthly Characters"
 msgstr "月間キャラクター数"
@@ -369,7 +369,7 @@ msgid "Previous week"
 msgstr "前週分"
 
 msgid "Characters"
-msgstr "キャラクター数"
+msgstr "個人戦績"
 
 msgid "Matches Sum"
 msgstr "総試合数"
@@ -388,6 +388,10 @@ msgstr "週間アクティブキャラクター数"
 
 msgid "Win rate"
 msgstr "勝率"
+
+#, php-format
+msgid "Japanese translation by %s"
+msgstr "日本語訳 by %s"
 
 msgid "Home"
 msgstr "ホーム"
@@ -417,10 +421,13 @@ msgid "Linkshell"
 msgstr "リンクシェル"
 
 msgid "statistics"
-msgstr "統計"
+msgstr "の戦績"
 
 msgid "Active players"
 msgstr "アクティブプレイヤー数"
+
+msgid "active"
+msgstr "アクティブ"
 
 msgid "Weekly average win rate"
 msgstr "週間平均勝率"
@@ -627,32 +634,35 @@ msgid "Can I get banned for using this?"
 msgstr "これを使用することによりBANされる可能性はありますか？"
 
 msgid "Not really."
-msgstr "ありません。"
+msgstr "ないと思われます。"
 
 msgid ""
 "The client is not gathering/submitting data that you don't already know. It "
 "just sniffs the network packets and parses the ones we're interested in, "
 "kinda like a proxy."
 msgstr ""
-"クライアントが取得・送信するデータはそもそもプレイヤーが知ることができる情報"
-"のみです。ネットワーク通信をモニターし、興味のあるデータのみ解析しており、プ"
-"ロキシと似た動作をします。"
+"クライアントが取得・送信するデータはプレイヤーが知ることのできる情報のみで"
+"す。ネットワーク通信をモニターし、興味のあるデータのみ解析しており、プロキシ"
+"と似た動作をします。"
 
 msgid ""
 "Seriously, you could do the same thing by manually extracting the data on "
 "the scoreboard at the end of a match and sending it to this website."
 msgstr ""
-"各試合ごとに手動で結果を抽出し当ウェブサイトに送信した場合とクライアントの挙"
-"動はまったく同じです。"
+"仮に各試合ごとに手動で結果を抽出し当ウェブサイトに送信した場合、クライアント"
+"の動作はそれとまったく同じになります。"
 
 msgid "Displaying only characters active in the past week or month."
-msgstr "先週/先月にアクティブだったキャラクターのみ集計"
+msgstr "先週/先月にアクティブだったキャラクターのみ集計しています。"
 
 msgid "Active in the past week"
 msgstr "先週のアクティブ数"
 
 msgid "Active in the past month"
 msgstr "先月のアクティブ数"
+
+msgid "past week"
+msgstr "先週"
 
 msgid "Seal Rock Match"
 msgstr "シールロック試合数"
@@ -664,13 +674,13 @@ msgid "Linkshell search"
 msgstr "リンクシェル検索"
 
 msgid "enter at least 3 characters"
-msgstr "3文字以上入力してください"
+msgstr "3文字以上入力してください。"
 
 msgid "Server Statistics"
-msgstr "ワールド統計"
+msgstr "ワールド戦績"
 
 msgid "Linkshell Statistics"
-msgstr "リンクシェル統計"
+msgstr "リンクシェル戦績"
 
 msgid "Character search"
 msgstr "キャラクター検索"
