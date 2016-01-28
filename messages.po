@@ -164,6 +164,9 @@ msgstr ""
 msgid "Copy summary to clipboard"
 msgstr ""
 
+msgid "Tweet this match"
+msgstr ""
+
 #. /Translator: the first %d represents 24 or 72 (match size)
 #, php-format
 msgid ""
