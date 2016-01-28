@@ -417,6 +417,9 @@ msgstr ""
 msgid "Active players"
 msgstr ""
 
+msgid "active"
+msgstr ""
+
 msgid "Weekly average win rate"
 msgstr ""
 
@@ -612,6 +615,9 @@ msgid "Active in the past week"
 msgstr ""
 
 msgid "Active in the past month"
+msgstr ""
+
+msgid "past week"
 msgstr ""
 
 msgid "Seal Rock Match"
