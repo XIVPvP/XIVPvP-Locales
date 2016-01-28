@@ -139,13 +139,35 @@ msgstr ""
 msgid "No characters for this time period and filters"
 msgstr ""
 
+#, php-format
+msgid "%d man Seal Rock (%s) - "
+msgstr ""
+
+msgid "winner"
+msgstr ""
+
+msgid "Maelstrom"
+msgstr ""
+
+msgid "2nd"
+msgstr ""
+
+msgid "Twin Adder"
+msgstr ""
+
+msgid "3rd"
+msgstr ""
+
+msgid "Immortal Flames"
+msgstr ""
+
+msgid "Copy summary to clipboard"
+msgstr ""
+
 #. /Translator: the first %d represents 24 or 72 (match size)
 #, php-format
 msgid ""
 "%d man Seal Rock on %s - duration %s, ended <span class='toLocal'>%s</span>"
-msgstr ""
-
-msgid "Maelstrom"
 msgstr ""
 
 msgid "Points from Tomeliths"
@@ -155,12 +177,6 @@ msgid "Points from kills"
 msgstr ""
 
 msgid "Points lost from deaths"
-msgstr ""
-
-msgid "Twin Adder"
-msgstr ""
-
-msgid "Immortal Flames"
 msgstr ""
 
 msgid "Kills"
@@ -190,9 +206,6 @@ msgstr ""
 msgid ""
 "Sort multiple columns simultaneously by holding down the shift key and "
 "clicking a second, third or even fourth column header!"
-msgstr ""
-
-msgid "Copy summary to clipboard"
 msgstr ""
 
 msgid "Copied!"
@@ -229,6 +242,9 @@ msgid "Immortal Flames Points"
 msgstr ""
 
 msgid "No recent Seal Rock matches"
+msgstr ""
+
+msgid "View"
 msgstr ""
 
 msgid "Summary"
@@ -300,9 +316,6 @@ msgid "Frequently seen in Wolves\\' Den with"
 msgstr ""
 
 msgid "and"
-msgstr ""
-
-msgid "View"
 msgstr ""
 
 msgid "% win rate for selected period"
