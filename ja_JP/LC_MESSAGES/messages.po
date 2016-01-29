@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: xivpvp\n"
 "POT-Creation-Date: 2016-01-28 08:24+0000\n"
-"PO-Revision-Date: 2016-01-29 06:55+0900\n"
+"PO-Revision-Date: 2016-01-30 04:49+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -106,6 +106,9 @@ msgstr ""
 
 msgid "Top 20 DPS/Tanks based on Kill/Death Ratio"
 msgstr "K/DランキングTOP20 (DPS・タンク)"
+
+msgid "Save as default sort"
+msgstr "ソート順をデフォルトとして保存"
 
 msgid "Name"
 msgstr "名前"
@@ -473,7 +476,7 @@ msgid "Members"
 msgstr "所属人数"
 
 #, php-format
-msgid "Wolves' Den match on (%s) on %s"
+msgid "Wolves' Den match (%s) on %s"
 msgstr "ウルヴズジェイル (%s) %s"
 
 #, php-format
@@ -544,8 +547,8 @@ msgid ""
 "For example, if you play less than 7 matches every week we won't have any "
 "data on your character. Stop being a casual."
 msgstr ""
-"例えば、もしあなたが1週間の試合数が7回以下である場合、あなたのキャラクターの"
-"データはありません。もっとプレイしましょう。"
+"例えば、もしあなたの1週間の試合数が7回以下の場合、キャラクターのデータはあり"
+"ません。もっとたくさんプレイしましょう！"
 
 msgid "The statistics on XIVPvP differ from the in game ones"
 msgstr "XIVPvPで集計された結果がゲーム内の実際の結果と違うのですが"
