@@ -106,6 +106,9 @@ msgstr ""
 msgid "Top 20 DPS/Tanks based on Kill/Death Ratio"
 msgstr ""
 
+msgid "Save as default sort"
+msgstr ""
+
 msgid "Name"
 msgstr ""
 
@@ -468,7 +471,7 @@ msgid "Members"
 msgstr ""
 
 #, php-format
-msgid "Wolves' Den match on (%s) on %s"
+msgid "Wolves' Den match (%s) on %s"
 msgstr ""
 
 #, php-format
