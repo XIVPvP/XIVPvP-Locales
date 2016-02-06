@@ -121,6 +121,9 @@ msgstr ""
 msgid "Main Job"
 msgstr ""
 
+msgid "Win rate"
+msgstr ""
+
 msgid "KDR"
 msgstr ""
 
@@ -185,6 +188,12 @@ msgstr ""
 msgid "Points lost from deaths"
 msgstr ""
 
+msgid "Statistics"
+msgstr ""
+
+msgid "Job Distribution"
+msgstr ""
+
 msgid "Kills"
 msgstr ""
 
@@ -212,6 +221,9 @@ msgstr ""
 msgid ""
 "Sort multiple columns simultaneously by holding down the shift key and "
 "clicking a second, third or even fourth column header!"
+msgstr ""
+
+msgid "Grand Company"
 msgstr ""
 
 msgid "Copied!"
@@ -404,9 +416,6 @@ msgid "Monthly Active Characters"
 msgstr ""
 
 msgid "Weekly Active Characters"
-msgstr ""
-
-msgid "Win rate"
 msgstr ""
 
 #, php-format
