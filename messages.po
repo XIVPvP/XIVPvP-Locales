@@ -55,7 +55,7 @@ msgstr ""
 msgid "to"
 msgstr ""
 
-msgid "at least 5 matches"
+msgid "at least 8 matches"
 msgstr ""
 
 msgid "Filter by Data Center"
@@ -103,7 +103,7 @@ msgstr ""
 msgid "BLM"
 msgstr ""
 
-msgid "Top 20 DPS/Tanks based on Kill/Death Ratio"
+msgid "Top 20 DPS/Tanks based on Average Kills/(Deaths+1) Ratio"
 msgstr ""
 
 msgid "Save as default sort"
@@ -124,16 +124,16 @@ msgstr ""
 msgid "Win rate"
 msgstr ""
 
-msgid "KDR"
+msgid "Avg KDR"
 msgstr ""
 
-msgid "Average Kills"
+msgid "Avg Kills"
 msgstr ""
 
-msgid "Average Deaths"
+msgid "Avg Deaths"
 msgstr ""
 
-msgid "Average Damage"
+msgid "Avg Damage"
 msgstr ""
 
 msgid "Matches"
