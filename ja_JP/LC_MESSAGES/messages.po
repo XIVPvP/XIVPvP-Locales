@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: xivpvp\n"
 "POT-Creation-Date: 2016-01-28 08:24+0000\n"
-"PO-Revision-Date: 2016-01-30 05:04+0900\n"
+"PO-Revision-Date: 2016-02-16 03:25+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -56,8 +56,8 @@ msgstr "シールロック総合順位"
 msgid "to"
 msgstr "～"
 
-msgid "at least 5 matches"
-msgstr "5試合以上"
+msgid "at least 8 matches"
+msgstr "8試合以上"
 
 msgid "Filter by Data Center"
 msgstr "データセンターで絞る"
@@ -104,8 +104,8 @@ msgstr ""
 msgid "BLM"
 msgstr ""
 
-msgid "Top 20 DPS/Tanks based on Kill/Death Ratio"
-msgstr "K/DランキングTOP20 (DPS・タンク)"
+msgid "Top 20 DPS/Tanks based on Average Kills/(Deaths+1) Ratio"
+msgstr "TOP20 DPS・タンク [撃破数/(戦闘不能数+1)の平均値で算出]"
 
 msgid "Save as default sort"
 msgstr "ソート順をデフォルトとして保存"
@@ -122,17 +122,20 @@ msgstr "ワールド"
 msgid "Main Job"
 msgstr "メインジョブ"
 
-msgid "KDR"
-msgstr "K/D"
+msgid "Win rate"
+msgstr "勝率"
 
-msgid "Average Kills"
+msgid "Avg KDR"
+msgstr "平均K/D"
+
+msgid "Avg Kills"
 msgstr "平均撃破数"
 
-msgid "Average Deaths"
+msgid "Avg Deaths"
 msgstr "平均戦闘不能数"
 
-msgid "Average Damage"
-msgstr "平均与ダメージ量"
+msgid "Avg Damage"
+msgstr "平均与ダメージ"
 
 msgid "Matches"
 msgstr "試合数"
@@ -188,6 +191,12 @@ msgstr "敵兵撃破で得た情報値"
 msgid "Points lost from deaths"
 msgstr "戦闘不能で失った情報値"
 
+msgid "Statistics"
+msgstr "統計情報"
+
+msgid "Job Distribution"
+msgstr "ジョブ分布"
+
 msgid "Kills"
 msgstr "撃破数"
 
@@ -218,6 +227,9 @@ msgid ""
 msgstr ""
 "SHIFTキーを押しながら列の見出しをクリックすると同時に複数の列(2つ、3つ、4つ)"
 "を並べ替えることができます。"
+
+msgid "Grand Company"
+msgstr "グランドカンパニー"
 
 msgid "Copied!"
 msgstr "コピーされました！"
@@ -410,9 +422,6 @@ msgstr "月間アクティブキャラクター数"
 
 msgid "Weekly Active Characters"
 msgstr "週間アクティブキャラクター数"
-
-msgid "Win rate"
-msgstr "勝率"
 
 #, php-format
 msgid "Japanese translation by %s"
@@ -745,3 +754,21 @@ msgstr ""
 
 msgid "AST"
 msgstr ""
+
+#~ msgid "at least 5 matches"
+#~ msgstr "5試合以上"
+
+#~ msgid "Top 20 DPS/Tanks based on Kill/Death Ratio"
+#~ msgstr "K/DランキングTOP20 (DPS・タンク)"
+
+#~ msgid "KDR"
+#~ msgstr "K/D"
+
+#~ msgid "Average Kills"
+#~ msgstr "平均撃破数"
+
+#~ msgid "Average Deaths"
+#~ msgstr "平均戦闘不能数"
+
+#~ msgid "Average Damage"
+#~ msgstr "平均与ダメージ量"
