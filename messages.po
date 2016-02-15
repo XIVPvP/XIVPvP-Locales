@@ -103,7 +103,7 @@ msgstr ""
 msgid "BLM"
 msgstr ""
 
-msgid "Top 20 DPS/Tanks based on Average Kills/(Deaths+1) Ratio"
+msgid "Top 20 DPS/Tanks based on Average Kills/Lives (Deaths+1) Ratio"
 msgstr ""
 
 msgid "Save as default sort"
@@ -124,7 +124,7 @@ msgstr ""
 msgid "Win rate"
 msgstr ""
 
-msgid "Avg KDR"
+msgid "Avg KLR"
 msgstr ""
 
 msgid "Avg Kills"
