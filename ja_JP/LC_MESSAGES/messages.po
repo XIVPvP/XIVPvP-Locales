@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: xivpvp\n"
 "POT-Creation-Date: 2016-01-28 08:24+0000\n"
-"PO-Revision-Date: 2016-02-16 03:37+0900\n"
+"PO-Revision-Date: 2016-02-21 09:00+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -75,34 +75,34 @@ msgid "All"
 msgstr "全部"
 
 msgid "PLD"
-msgstr ""
+msgstr "ナ"
 
 msgid "WAR"
-msgstr ""
+msgstr "戦"
 
 msgid "DRK"
-msgstr ""
+msgstr "暗"
 
 msgid "BRD"
-msgstr ""
+msgstr "吟"
 
 msgid "MCH"
-msgstr ""
+msgstr "機"
 
 msgid "NIN"
-msgstr ""
+msgstr "忍"
 
 msgid "DRG"
-msgstr ""
+msgstr "竜"
 
 msgid "MNK"
-msgstr ""
+msgstr "モ"
 
 msgid "SMN"
-msgstr ""
+msgstr "召"
 
 msgid "BLM"
-msgstr ""
+msgstr "黒"
 
 msgid "Top 20 DPS/Tanks based on Average Kills/Lives (Deaths+1) Ratio"
 msgstr ""
@@ -227,8 +227,8 @@ msgid ""
 "Sort multiple columns simultaneously by holding down the shift key and "
 "clicking a second, third or even fourth column header!"
 msgstr ""
-"SHIFTキーを押しながら列の見出しをクリックすると同時に複数の列(2つ、3つ、4つ)"
-"を並べ替えることができます。"
+"SHIFTキーを押しながら列の見出しをクリックすると複数の列(2つ、3つ、4つ)を同時"
+"に並べ替えることができます。"
 
 msgid "Grand Company"
 msgstr "グランドカンパニー"
@@ -329,7 +329,7 @@ msgstr "同じパーティで'+player.times+'回参加"
 
 #, php-format
 msgid "out of %s\\'s '+data.wdCount+' matches"
-msgstr "%sは全部で'+data.wdCount+'回参加"
+msgstr "記録されている%sの試合数は'+data.wdCount+'回"
 
 msgid "Played only '+player.main"
 msgstr "ジョブは'+player.main+'のみ'"
@@ -354,7 +354,7 @@ msgstr "%の勝率 (指定期間内)"
 
 #, php-format
 msgid "out of %s\\'s '+data.flCount+' matches"
-msgstr "%sは全部で'+data.flCount+'回参加"
+msgstr "記録されている%sの試合数は'+data.flCount+'回"
 
 msgid "Frequently seen in Seal Rock with"
 msgstr "シールロックをよく一緒にプレイする人: "
@@ -722,40 +722,40 @@ msgid "Character search"
 msgstr "キャラクター検索"
 
 msgid "GLA"
-msgstr ""
+msgstr "剣"
 
 msgid "PGL"
-msgstr ""
+msgstr "格"
 
 msgid "MRD"
-msgstr ""
+msgstr "斧"
 
 msgid "LNC"
-msgstr ""
+msgstr "槍"
 
 msgid "ARC"
-msgstr ""
+msgstr "弓"
 
 msgid "CNJ"
-msgstr ""
+msgstr "幻"
 
 msgid "THM"
-msgstr ""
+msgstr "呪"
 
 msgid "WHM"
-msgstr ""
+msgstr "白"
 
 msgid "ACN"
-msgstr ""
+msgstr "巴"
 
 msgid "SCH"
-msgstr ""
+msgstr "学"
 
 msgid "ROG"
-msgstr ""
+msgstr "双"
 
 msgid "AST"
-msgstr ""
+msgstr "占"
 
 #~ msgid "Top 20 DPS/Tanks based on Average Kills/(Deaths+1) Ratio"
 #~ msgstr "TOP20 DPS・タンク [撃破数/(戦闘不能数+1)の平均値で算出]"
