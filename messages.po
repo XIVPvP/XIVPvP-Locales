@@ -265,6 +265,46 @@ msgstr ""
 msgid "View"
 msgstr ""
 
+#, php-format
+msgid "The Feast (%s) match (%s) on %s"
+msgstr ""
+
+#, php-format
+msgid ""
+"The Feast (%s) match on %s - duration %s, ended <span class='toLocal'>%s</"
+"span>"
+msgstr ""
+
+msgid "Claws"
+msgstr ""
+
+msgid "Medals"
+msgstr ""
+
+msgid "K/D/A"
+msgstr ""
+
+msgid "Fangs"
+msgstr ""
+
+msgid "Team"
+msgstr ""
+
+msgid "Tier"
+msgstr ""
+
+msgid "Assists"
+msgstr ""
+
+msgid "Latest The Feast Matches"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "No recent The Feast matches"
+msgstr ""
+
 msgid "Summary"
 msgstr ""
 
@@ -293,7 +333,7 @@ msgstr ""
 msgid "Order of the Twin Adder"
 msgstr ""
 
-msgid "Wolves' Den Matches"
+msgid "The Feast Matches"
 msgstr ""
 
 msgid "time period"
@@ -321,7 +361,7 @@ msgid "Seen in the same party '+player.times+' times"
 msgstr ""
 
 #, php-format
-msgid "out of %s\\'s '+data.wdCount+' matches"
+msgid "out of %s\\'s '+data.feastCount+' matches"
 msgstr ""
 
 msgid "Played only '+player.main"
@@ -330,7 +370,7 @@ msgstr ""
 msgid "Mostly played '+player.main+'"
 msgstr ""
 
-msgid "Frequently seen in Wolves\\' Den with"
+msgid "Frequently seen in The Feast with"
 msgstr ""
 
 msgid "and"
@@ -428,6 +468,9 @@ msgstr ""
 msgid "Seal Rock"
 msgstr ""
 
+msgid "The Feast"
+msgstr ""
+
 msgid "Wolves' Den"
 msgstr ""
 
@@ -486,15 +529,6 @@ msgstr ""
 #, php-format
 msgid ""
 "Wolves' Den match on %s - duration %s, ended <span class='toLocal'>%s</span>"
-msgstr ""
-
-msgid "Team"
-msgstr ""
-
-msgid "Claws"
-msgstr ""
-
-msgid "Fangs"
 msgstr ""
 
 msgid "Latest Wolves' Den Matches"
@@ -664,6 +698,12 @@ msgstr ""
 msgid "Wolves' Den Match"
 msgstr ""
 
+msgid "Wolves' Den Matches"
+msgstr ""
+
+msgid "The Feast Match"
+msgstr ""
+
 msgid "Linkshell search"
 msgstr ""
 
@@ -677,6 +717,30 @@ msgid "Linkshell Statistics"
 msgstr ""
 
 msgid "Character search"
+msgstr ""
+
+msgid "Solo"
+msgstr ""
+
+msgid "Light Party"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Bronze"
+msgstr ""
+
+msgid "Silver"
+msgstr ""
+
+msgid "Gold"
+msgstr ""
+
+msgid "Platinum"
+msgstr ""
+
+msgid "Diamond"
 msgstr ""
 
 msgid "GLA"
