@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: xivpvp\n"
 "POT-Creation-Date: 2016-01-28 08:24+0000\n"
-"PO-Revision-Date: 2016-02-21 09:00+0900\n"
+"PO-Revision-Date: 2016-03-13 22:25+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -272,6 +272,48 @@ msgstr "最近のシールロックの情報はありません"
 msgid "View"
 msgstr "詳細"
 
+#, php-format
+msgid "The Feast (%s) match (%s) on %s"
+msgstr "ザ・フィースト (%s) - (%s) %s DC"
+
+#, php-format
+msgid ""
+"The Feast (%s) match on %s - duration %s, ended <span class='toLocal'>%s</"
+"span>"
+msgstr ""
+"ザ・フィースト (%s) %s DC - 試合時間 %s, 終了時刻 <span class='toLocal'>%s</"
+"span>"
+
+msgid "Claws"
+msgstr "クロウ"
+
+msgid "Medals"
+msgstr "所持メダル"
+
+msgid "K/D/A"
+msgstr ""
+
+msgid "Fangs"
+msgstr "ファング"
+
+msgid "Team"
+msgstr "チーム"
+
+msgid "Tier"
+msgstr "階級"
+
+msgid "Assists"
+msgstr "アシスト"
+
+msgid "Latest The Feast Matches"
+msgstr "ザ・フィースト最新結果"
+
+msgid "Type"
+msgstr "カテゴリ"
+
+msgid "No recent The Feast matches"
+msgstr "最近のザ・フィーストの情報はありません"
+
 msgid "Summary"
 msgstr "概要"
 
@@ -300,8 +342,8 @@ msgstr "グランドカンパニーランク"
 msgid "Order of the Twin Adder"
 msgstr "双蛇党"
 
-msgid "Wolves' Den Matches"
-msgstr "ウルヴズジェイル"
+msgid "The Feast Matches"
+msgstr "ザ・フィースト"
 
 msgid "time period"
 msgstr "期間"
@@ -328,8 +370,8 @@ msgid "Seen in the same party '+player.times+' times"
 msgstr "同じパーティで'+player.times+'回参加"
 
 #, php-format
-msgid "out of %s\\'s '+data.wdCount+' matches"
-msgstr "記録されている%sの試合数は'+data.wdCount+'回"
+msgid "out of %s\\'s '+data.feastCount+' matches"
+msgstr "記録されている%sの試合数は'+data.feastCount+'回"
 
 msgid "Played only '+player.main"
 msgstr "ジョブは'+player.main+'のみ'"
@@ -337,8 +379,8 @@ msgstr "ジョブは'+player.main+'のみ'"
 msgid "Mostly played '+player.main+'"
 msgstr "主なジョブは'+player.main+'"
 
-msgid "Frequently seen in Wolves\\' Den with"
-msgstr "ウルヴズジェイルをよく一緒にプレイする人:"
+msgid "Frequently seen in The Feast with"
+msgstr "ザ・フィーストをよく一緒にプレイする人: "
 
 msgid "and"
 msgstr ","
@@ -435,6 +477,9 @@ msgstr "ホーム"
 msgid "Seal Rock"
 msgstr "シールロック"
 
+msgid "The Feast"
+msgstr "ザ・フィースト"
+
 msgid "Wolves' Den"
 msgstr "ウルヴズジェイル"
 
@@ -495,15 +540,6 @@ msgid ""
 "Wolves' Den match on %s - duration %s, ended <span class='toLocal'>%s</span>"
 msgstr ""
 "ウルヴズジェイル %s - 経過時間 %s, 終了時刻 <span class='toLocal'>%s</span>"
-
-msgid "Team"
-msgstr "チーム"
-
-msgid "Claws"
-msgstr "クロウ"
-
-msgid "Fangs"
-msgstr "ファング"
 
 msgid "Latest Wolves' Den Matches"
 msgstr "最新のウルヴズジェイル結果"
@@ -706,6 +742,12 @@ msgstr "シールロック試合数"
 msgid "Wolves' Den Match"
 msgstr "ウルヴズジェイル試合数"
 
+msgid "Wolves' Den Matches"
+msgstr "ウルヴズジェイル"
+
+msgid "The Feast Match"
+msgstr "ザ・フィースト試合数"
+
 msgid "Linkshell search"
 msgstr "リンクシェル検索"
 
@@ -720,6 +762,30 @@ msgstr "リンクシェル戦績"
 
 msgid "Character search"
 msgstr "キャラクター検索"
+
+msgid "Solo"
+msgstr "ソロ専用"
+
+msgid "Light Party"
+msgstr "固定ライトパーティ専用"
+
+msgid "None"
+msgstr "--"
+
+msgid "Bronze"
+msgstr "ブロンズ"
+
+msgid "Silver"
+msgstr "シルバー"
+
+msgid "Gold"
+msgstr "ゴールド"
+
+msgid "Platinum"
+msgstr "プラチナ"
+
+msgid "Diamond"
+msgstr "ダイヤモンド"
 
 msgid "GLA"
 msgstr "剣"
@@ -756,6 +822,12 @@ msgstr "双"
 
 msgid "AST"
 msgstr "占"
+
+#~ msgid "out of %s\\'s '+data.wdCount+' matches"
+#~ msgstr "記録されている%sの試合数は'+data.wdCount+'回"
+
+#~ msgid "Frequently seen in Wolves\\' Den with"
+#~ msgstr "ウルヴズジェイルをよく一緒にプレイする人:"
 
 #~ msgid "Top 20 DPS/Tanks based on Average Kills/(Deaths+1) Ratio"
 #~ msgstr "TOP20 DPS・タンク [撃破数/(戦闘不能数+1)の平均値で算出]"
